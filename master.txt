@@ -1,9 +1,5 @@
 
 <Version: 1.01>
-/data/test.zip https://wordpress.org/latest.zip
-<End of Version>
-
-<Version: 1.02>
 /data/Actors.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Armors.json
@@ -12,4 +8,26 @@
 /data/DataEX.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/DataEX.json
 /data/Difficulties.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Difficulties.json
 /data/Enemies.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Items.json
+/data/Map001.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map005.json
+/data/Map006.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map006.json
+/data/Map007.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map007.json
+/data/Map008.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map008.json
+/data/Map009.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map009.json
+/data/Map010.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map010.json
+/data/Map011.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map011.json
+/data/Map012.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Map012.json
+/dataMapInfos.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/MapInfos.json
+/data/Notes.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Notes.json
+/data/Skills.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Skills.json
+/data/States.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/States.json
+/data/Systems.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Tilesets.json
+/data/Troops.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Weapons.json
+/data/Windows.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Windows.json
 <End of Version
