@@ -30,4 +30,4 @@
 /data/Troops.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Windows.json
-<End of Version
+<End of Version>
