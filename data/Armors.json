@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":1,"description":"Works like a charm during summer AND winter!","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Leather Jacket","note":"","params":[0,0,0,10,0,0,0,0],"price":1},
+{"id":4,"atypeId":1,"description":"It was my father's....\nHe said this ring will be of great use once...","etypeId":5,"traits":[],"iconIndex":145,"name":"Bronze Ring","note":"","params":[0,0,5,0,10,0,0,0],"price":1}
+]
