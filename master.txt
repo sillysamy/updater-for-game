@@ -1,5 +1,7 @@
 
 <Version: 1.02>
+/img/pictures/happy rusty.png https://imgur.com/a/a4B6jK3
+/img/pictures/happy Sasori.png https://imgur.com/TLMZYTi
 /img/pictures/understanding Sasori.png https://imgur.com/dmIJL6r
 /img/pictures/sad Sasori.png https://imgur.com/v6aiT3F
 /img/pictures/rusty.png https://imgur.com/2y4nIod
