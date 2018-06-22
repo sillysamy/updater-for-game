@@ -28,6 +28,7 @@
 /data/Windows.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Windows.json
 <End of Version 1.01>
 <Version: 1.02>
+/data/Actors.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/Actors.json
 /img/faces/happy rusty.png https://imgur.com/xy7Cs8j
 /img/faces/happy Sasori.png https://imgur.com/TLMZYTi
 /img/faces/understanding Sasori.png https://imgur.com/dmIJL6r
