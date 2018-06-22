@@ -1,3 +1,4 @@
+<Version 1.01>
 /data/Actors.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Actors.json
  /data/Animations.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Animations.json
  /data/Armors.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Armors.json
@@ -26,7 +27,8 @@
 /data/Troops.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Weapons.json
 /data/Windows.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/data/Windows.json
-<End of Version 1.01>
+<End of Version>
+
 <Version: 1.02>
 /data/Actors.json https://raw.githubusercontent.com/sillysamy/updater-for-game/master/Actors.json
 /img/faces/happy rusty.png https://imgur.com/xy7Cs8j
