@@ -1,14 +1,16 @@
 
 <Version: 1.02>
-/img/pictures/understanding Sasori.png https://imgur.com/dmIJL6r
-/img/pictures/sad Sasori.png https://imgur.com/v6aiT3F
-/img/pictures/rusty.png https://imgur.com/2y4nIod
-/img/pictures/Sasori.png https://imgur.com/kW5y43s
-/img/pictures/hinata.png https://imgur.com/sdEVYFu
-/img/pictures/hinata.png https://imgur.com/oE5HvoG
-/img/pictures/hinata damage.png https://imgur.com/kT29WI2
-/img/pictures/sasori.png https://imgur.com/z5ixgoy
-/img/pictures/sasori damage.png https://imgur.com/BIRI30p
-/img/pictures/rusty.png https://imgur.com/B1CdDTH
-/img/pictures/rusty damage.png https://imgur.com/Gr5M4iq
+/img/faces/happy rusty.png https://imgur.com/xy7Cs8j
+/img/faces/happy Sasori.png https://imgur.com/TLMZYTi
+/img/faces/understanding Sasori.png https://imgur.com/dmIJL6r
+/img/faces/sad Sasori.png https://imgur.com/v6aiT3F
+/img/faces/rusty.png https://imgur.com/2y4nIod
+/img/faces/Sasori.png https://imgur.com/kW5y43s
+/img/faces/hinata.png https://imgur.com/sdEVYFu
+/img/characters/hinata.png https://imgur.com/oE5HvoG
+/img/characters/hinata damage.png https://imgur.com/kT29WI2
+/img/characters/sasori.png https://imgur.com/z5ixgoy
+/img/characters/sasori damage.png https://imgur.com/BIRI30p
+/img/characters/rusty.png https://imgur.com/B1CdDTH
+/img/characters/rusty damage.png https://imgur.com/Gr5M4iq
 <End of Version>
